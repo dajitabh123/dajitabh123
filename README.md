@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **ajitabdash@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1Mm2vlRbL5kQkAocmwI-0YJ3YciivUiVx?usp=sharing">**Resume** </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/12WI_w7ZzQ-HPJ9LfKoW1N5O2o3sG8_5p/view?usp=sharing">**Resume** </a>
 
 - ⚡ Fun fact **I am funny.**
 
