@@ -2,7 +2,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Ajitabh Dash</h1>
-<h3 align="center">A passionate Backend developer from India, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
+<h3 align="center">Detail-oriented, efficient and organized professional with Java Backend Developer.
+Possess strong analytical and problem solving skills, with the ability to make well thought out decisions.
+Excellent written and verbal communication skills.
+
+Highly trustworthy, discreet and ethical.
+
+Resourceful in the completion of projects, effective at multi-tasking.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dajitabh123&label=Profile%20views&color=0e75b6&style=flat" alt="dajitabh123" /> </p>
 
