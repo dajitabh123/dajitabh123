@@ -21,7 +21,7 @@ Resourceful in the completion of projects, effective at multi-tasking.</h3>
 
 - 👯 I worked collaboratively on **TATA 1mg**
 
-- 👨‍💻 All of my projects are available at  <a href="https://dajitabh123.github.io/AjitabhDashPortfolio/"> **Portfolio** </a>
+- 👨‍💻 All of my projects are available at  <dajitabh123.github.io"> **Portfolio** </a>
 
 - 💬 Ask me about **java, Spring, javascript,HTML & CSS**
 
