@@ -1,4 +1,4 @@
-<img border-radius="20px" alt="Coding" width="100%" height="250px" src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif">
+<img border-radius="20px" alt="Coding" width="100%" height="250px" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
 
 
 <h1 align="center">Hi 👋, I'm Ajitabh Dash</h1>
