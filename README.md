@@ -1,4 +1,4 @@
-<img border-radius="20px" alt="Coding" width="100%" height="250px" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
+<img border-radius="20px" alt="Coding" width="100%" height="250px" src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif">
 
 
 <h1 align="center">Hi 👋, I'm Ajitabh Dash</h1>
@@ -21,7 +21,7 @@ Resourceful in the completion of projects, effective at multi-tasking.</h3>
 
 - 👯 I worked collaboratively on **TATA 1mg**
 
-- 👨‍💻 All of my projects are available at  <dajitabh123.github.io"> **Portfolio** </a>
+- 👨‍💻 All of my projects are available at  <a href="https://dajitabh.github.io"> **Portfolio** </a>
 
 - 💬 Ask me about **java, Spring, javascript,HTML & CSS**
 
