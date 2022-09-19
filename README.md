@@ -1,4 +1,4 @@
-<img border-radius="20px" alt="Coding" width="100%" height="250px" src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif">
+<img border-radius="20px" alt="Coding" width="100%" height="250px" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
 
 
 <h1 align="center">Hi 👋, I'm Ajitabh Dash</h1>
@@ -49,8 +49,6 @@ Resourceful in the completion of projects, effective at multi-tasking.</h3>
 <!--   /*<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-> -->
  <br/>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dajitabh123&&theme=tokyonight" alt="dajitabh123" />
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dajitabh123&show_icons=true&locale=en&layout=compact" alt="dajitabh123" /></p> -->
 
 <a href="https://github.com/dajitabh123/github-readme-activity-graph"><img alt="AjitabhDash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dajitabh123&bg_color=white&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&bg_color=0D1117" /></a>
 <br/>
