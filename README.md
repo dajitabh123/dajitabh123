@@ -42,7 +42,7 @@ Resourceful in the completion of projects, effective at multi-tasking.</h3>
 
 ## 📊 My Github Stats
 <!--   <br/> -->
-<img align="right" src="https://i.pinimg.com/originals/da/c3/8f/dac38faf997774aa22a78ec3b6283444.gif" alt="dajitabh123"  />
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBbB48eUsmLhiccV-t2NxBezoD5U5ay80GpJPshBKU3ISMTuBcN4e0-KMWLZPrCtiarnM&usqp=CAU" alt="dajitabh123"  />
    <a href="https://github.com/dajitabh123/github-readme-stats"><img alt="dajitabh123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dajitabh123&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/dajitabh123/github-readme-stats"><img alt="dajitabh123's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dajitabh123&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  /></a>
   <br/>
