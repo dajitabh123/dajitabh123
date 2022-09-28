@@ -25,7 +25,7 @@ Resourceful in the completion of projects, effective at multi-tasking.</h3>
 
 - 💬 Ask me about **java, Spring, javascript,HTML & CSS**
 
-- 📫 How to reach me **ajitabdash@gmail.com**
+- 📫 How to reach me:  ... **ajitabdash@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/12WI_w7ZzQ-HPJ9LfKoW1N5O2o3sG8_5p/view?usp=sharing">**Resume** </a>
 
@@ -40,15 +40,12 @@ Resourceful in the completion of projects, effective at multi-tasking.</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-## 📊 My Github Stats
-<!--   <br/> -->
-<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBbB48eUsmLhiccV-t2NxBezoD5U5ay80GpJPshBKU3ISMTuBcN4e0-KMWLZPrCtiarnM&usqp=CAU" alt="dajitabh123"  />
-   <a href="https://github.com/dajitabh123/github-readme-stats"><img alt="dajitabh123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dajitabh123&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/dajitabh123/github-readme-stats"><img alt="dajitabh123's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dajitabh123&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  /></a>
-  <br/>
-<!--   /*<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-> -->
- <br/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dajitabh123&&theme=tokyonight" alt="dajitabh123" />
+<h2><i>My GitHub Stats</i></h2>                                                       
+<p align="center">
+<a href="https://github.com/dajitabh123">
+  <img align="left" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dajitabh123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="right" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dajitabh123&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<p align="centre">
 
-<a href="https://github.com/dajitabh123/github-readme-activity-graph"><img alt="AjitabhDash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dajitabh123&bg_color=white&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&bg_color=0D1117" /></a>
-<br/>
