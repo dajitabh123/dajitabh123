@@ -22,7 +22,7 @@ Resourceful in the completion of projects, effective at multi-tasking.</h3>
 
 - 🔭 I’m currently learning Java in **Masai School**
 
-- 🌱 I’m currently learning **Masai School (JAVA Backend Developer)**
+- 🌱 I’m currently learning **JAVA (Spring Boot)**
 
 - 👯 I worked collaboratively on **TATA 1mg & Plural Sight**
 
