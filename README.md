@@ -1,7 +1,7 @@
 <img border-radius="20px" alt="Coding" width="100%" height="250px" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
 
 
-<h1 align="center">Hi 👋, I'm Ajitabh Dash</h1>
+<h1 align="center">Hello 👋, This is Ajitabh</h1>
 <h3 align="center">Detail-oriented, efficient and organized professional with Java Backend Developer.
 Possess strong analytical and problem solving skills, with the ability to make well thought out decisions.
 Excellent written and verbal communication skills.
