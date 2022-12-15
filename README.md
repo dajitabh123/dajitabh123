@@ -1,4 +1,4 @@
-<img border-radius="20px" alt="Coding" width="100%" height="250px" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
+<img border-radius="20px" alt="Coding" width="100%" height="250px" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 
 <h1 align="center">Hello 👋, This is Ajitabh</h1>
