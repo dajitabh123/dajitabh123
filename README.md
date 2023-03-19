@@ -20,19 +20,19 @@ Resourceful in the completion of projects, effective at multi-tasking.</h3>
 <!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
  -->
 
-- 🔭 I’m currently learning Java in **Masai School**
+- 🔭 I’m currently learning Java in **Self Studying**
 
-- 🌱 I’m currently learning **JAVA (Spring Boot)**
+- 🌱 I’m currently learning **** JAVA (Spring Boot)****
 
 - 👯 I worked collaboratively on **TATA 1mg & Plural Sight**
 
 - 👨‍💻 All of my projects are available at  <a href="https://dajitabh123.github.io"> **Portfolio** </a>
 
-- 💬 Ask me about **Java, Spring, Hibernet,Javascript,HTML & CSS**
+- 💬 Ask me about **Java,Spring,SpringBoot,JSON,Hibernate,Javascript,HTML & CSS**
 
 - 📫 How to reach me:  ... **ajitabdash@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1wWleP6Sli98MhvRwytYrSkVqEMbJWMnl/view?usp=sharing">**Resume** </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/15sLQE_1illa-JV9MhNwBDwMOKp8Phl8J/view?usp=sharing">**Resume** </a>
 
 - ⚡ Fun fact **Love to play Volley Ball.**
 
