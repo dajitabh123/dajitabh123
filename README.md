@@ -26,7 +26,7 @@ Resourceful in the completion of projects, effective at multi-tasking.</h3>
 
 - 👯 I worked collaboratively on Frontend  **TATA 1mg & Plural Sight**
 
--  I Worked collaboratively on Java Backend **** Tree House,Crime Management System & Bus Ticketing System ***
+-  I Worked collaboratively on Java Backend **** Tree House,Crime Management System & Bus Ticketing System ****
 
 - 👨‍💻 All of my projects are available at  <a href="https://dajitabh123.github.io"> **Portfolio** </a>
 
