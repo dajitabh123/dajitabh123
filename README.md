@@ -28,7 +28,7 @@ Resourceful in the completion of projects, effective at multi-tasking.</h3>
 
 - 👨‍💻 All of my projects are available at  <a href="https://dajitabh123.github.io"> **Portfolio** </a>
 
-- 💬 Ask me about **Java,Spring,SpringBoot,JSON,Hibernate,Javascript,HTML & CSS**
+- 💬 Ask me about **Java,Spring,SpringBoot,JSON,Hibernate,MySQL,Javascript,HTML & CSS**
 
 - 📫 How to reach me:  ... **ajitabdash@gmail.com**
 
