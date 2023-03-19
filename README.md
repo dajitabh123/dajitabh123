@@ -20,11 +20,13 @@ Resourceful in the completion of projects, effective at multi-tasking.</h3>
 <!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
  -->
 
-- 🔭 I’m currently learning Java in **Self Studying**
+- 🔭 I’m currently learning Java in **** Self Studying ****
 
 - 🌱 I’m currently learning **** JAVA (Spring Boot)****
 
-- 👯 I worked collaboratively on **TATA 1mg & Plural Sight**
+- 👯 I worked collaboratively on Frontend  **TATA 1mg & Plural Sight**
+
+-  I Worked collaboratively on Java Backend **** Tree House,Crime Management System & Bus Ticketing System ***
 
 - 👨‍💻 All of my projects are available at  <a href="https://dajitabh123.github.io"> **Portfolio** </a>
 
