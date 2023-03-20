@@ -20,23 +20,23 @@ Resourceful in the completion of projects, effective at multi-tasking.</h3>
 <!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
  -->
 
-- 🔭 I’m currently learning Java in **** Self Studying ****
+- 🔭 I’m currently learning Java in *** Self Studying ***
 
-- 🌱 I’m currently learning **** JAVA (Spring Boot)****
+- 🌱 I’m currently learning *** JAVA (Spring Boot)***
 
 - 👯 I worked collaboratively on Frontend  **TATA 1mg & Plural Sight**
 
--  I Worked collaboratively on Java Backend **** Tree House,Crime Management System & Bus Ticketing System ****
+-  I Worked collaboratively on Java Backend *** Tree House,Crime Management System & Bus Ticketing System ***
 
-- 👨‍💻 All of my projects are available at  <a href="https://dajitabh123.github.io"> **Portfolio** </a>
+- 👨‍💻 All of my projects are available at  <a href="https://dajitabh123.github.io"> ***Portfolio*** </a>
 
 - 💬 Ask me about **Java,Spring,SpringBoot,JSON,Hibernate,MySQL,Javascript,HTML & CSS**
 
-- 📫 How to reach me:  ... **ajitabdash@gmail.com**
+- 📫 How to reach me:**ajitabdash@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/15sLQE_1illa-JV9MhNwBDwMOKp8Phl8J/view?usp=sharing">**Resume** </a>
 
-- ⚡ Fun fact **Love to play Volley Ball.**
+- ⚡ Fun fact ***** Love to play Volley Ball *****
 
 
 <p align="center">
