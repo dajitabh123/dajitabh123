@@ -34,7 +34,7 @@ Resourceful in the completion of projects, effective at multi-tasking.</h3>
 
 - 📫 How to reach me:**ajitabdash@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/drive/my-drive](https://drive.google.com/file/d/1EdKqWqF-d4vC6YfL27ari0C-bdijLYu8/view?usp=sharing)">**Resume** </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/my-drive">**Resume** </a>
 
 - ⚡ Fun fact ***** Love to play Volley Ball *****
 
