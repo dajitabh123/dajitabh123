@@ -10,23 +10,25 @@ Highly trustworthy, discreet and ethical.
 
 Resourceful in the completion of projects, effective at multi-tasking.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dajitabh123&label=Profile%20views&color=0e75b6&style=flat" alt="dajitabh123" /> </p>
 
- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
- 
+<!--  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  -->
  <img align="right" alt="Coding" width="350" height="80%" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
 
-<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
- -->
+
 
 - 👀 I’m interested in exploring new things
-- 🌱 I’m currently learning various new technologies
-- 💞️ I’m looking to collaborate with young and dynamic developers
-- 👨‍💻 You can know more of me at my **[Portfolio](https://dajitabh123.github.io/)**
-- 📫 How to reach me:**ajitabdash@gmail.com**
-- ⚡ Fun fact ***** Love to play Volley Ball *****
 - 
+- 🌱 I’m currently learning various new technologies
+- 
+- 💞️ I’m looking to collaborate with young and dynamic developers
+- 
+- 👨‍💻 You can know more of me at my **[Portfolio](https://dajitabh123.github.io/)**
+- 
+- ⚡ Fun fact ***** Love to play Volley Ball *****
+
+
 
 ## 🚀 Languages and Tools:
 
@@ -40,7 +42,38 @@ Resourceful in the completion of projects, effective at multi-tasking.</h3>
     <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="width:50px"/> </a>
     <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="width:50px"/> </a>
     <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width:50px"/> </a>
+    <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/29/29540.png" 
+style="width:50px"/> </a>
+    <a href="" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfxxq1GRPRGDdHVOrIeMQ2h0MmAKkgkpHeNoHcE6E&s"
+style="width:50px"/> </a>
 </div>
+
+## 📊 My Github Stats
+
+<p align="center">
+    <a href="https://github.com/dajitabh123/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ajitabh streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dajitabh123&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+   
+</p>
+<div align="center"> 
+  <br/>
+    <a href="https://github.com/dajitabh123/github-readme-stats"><img alt="Ajitabh Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dajitabh123&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/dajitabh123/github-readme-stats"><img alt="Ajitabh's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dajitabh123&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    
+    
+    
+  <br/>
+</div>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+ <div>
+<img alt="Ajitabh's Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dajitabh123&theme=2077" />
+</div>
+
+
+
+
 
 
 
