@@ -1,28 +1,30 @@
 <img border-radius="20px" alt="Coding" width="100%" height="250px" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
 
 
-<h1 align="center"> 😇 Hello I' m Ajitabh Dash  👋</h1>
-<h3 align="center"> A passionate Java Developer</h
-<p align="center">A passionate Backend developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Collaborative team player, eager to work with interdisciplinary teams for organizational growth, with a passion for creating new products. Looking forward to starting the journey as a backend developer.<p>
+<h1 align="centre"> 😇 Hello I' m Ajitabh Dash  👋</h1>
+<h3 align="centre"> A passionate Java Developer</h
+<p align="center"> Dedicated to developing robust applications that interact with the Backend part of web applications. Collaborative team player, eager to work with interdisciplinary teams for organizational growth, with a passion for creating new products. Looking forward to starting the journey as a backend developer.<p>
 
 
 
 <!--  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
   -->
- <img align="right" alt="Coding" width="350" height="80%" src = "https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+ <img align="right" alt="Coding" width="400" height="80%" src = "https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
 
 
 
 
 - 👀 I’m interested in exploring new things
-- 
+
 - 🌱 I’m currently learning various new technologies
-- 
+
 - 💞️ I’m looking to collaborate with young and dynamic developers
-- 
+
 - 👨‍💻 You can know more of me at my **[Portfolio](https://dajitabh123.github.io/)**
-- 
+
 - ⚡ Fun fact ***** Love to play Volley Ball *****
+	
+- 📫 How to reach me: *ajitabdash@gmail.com*
 
 
 
@@ -70,8 +72,8 @@ style="width:50px"/> </a>
 <img alt="Ajitabh's Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dajitabh123&theme=2077" />
 </div>
 
-
-<h3 align="left">Connect with me:</h3>
+## 📊 Connect With Me
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 <a href="https://twitter.com/@AjitabD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@AjitabD" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ajitabh-dash-983b641b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AjitabhDash" height="30" width="40" /></a>
