@@ -1,4 +1,4 @@
-<img border-radius="20px" alt="Coding" width="100%" height="3000px" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
+<img border-radius="20px" alt="Coding" width="100%" height="300px" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
 
 
 <h1 align="centre"> 😇 Hello I' m Ajitabh Dash  👋</h1>
