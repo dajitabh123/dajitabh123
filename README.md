@@ -74,13 +74,13 @@ style="width:50px"/> </a>
 
 ## 📊 Connect With Me
 <!-- <h3 align="left">Connect with me:</h3> -->
-<p align="left">
+<!-- <p align="left">
 <a href="https://twitter.com/@AjitabD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@AjitabD" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ajitabh-dash-983b641b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AjitabhDash" height="30" width="40" /></a>
-
-</p>
+ -->
+<!-- </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-	
+	 -->
 
